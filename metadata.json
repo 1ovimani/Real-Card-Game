@@ -1,0 +1,6 @@
+{
+  "name": "World Card Master",
+  "description": "Offline-first luxury card gaming platform featuring authentic Bangladesh Classics (Twenty-Nine, Hazari, Call Bridge, Call Break, Court Piece, Teen Patti, Bhabhi) and International Classics with realistic playing cards, AI, sound effects, bilingual Bangla/English localization, and local Wi-Fi/Bluetooth multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
